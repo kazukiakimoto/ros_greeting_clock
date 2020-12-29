@@ -22,8 +22,6 @@ $ cd ../ && catkin_make
 
 # 使い方
 ~~~  
-$ cd catkin_ws/src
-$ catkin_make
 一つ目の端末で
 $ roscore
 二つ目の端末で
