@@ -32,3 +32,4 @@ $ rosrun ros_greeting_clock aisatu.py
 ~~~
 
 # ライセンス
+https://github.com/kazukiakimoto/ros_greeting_clock/blob/master/LICENSE
