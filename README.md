@@ -14,8 +14,8 @@ URL:
 - OS:Ubuntu 20.04.1 LTS
 
 # インストール
-~~
-$ git clone https://github.com/kazukiakimoto/ros_greeting_clock/blob/master/README.md
+~~　　
+$ git clone https://github.com/kazukiakimoto/ros_greeting_clock/blob/master/README.md　　
 ~~
 
 # 使い方
