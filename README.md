@@ -15,7 +15,9 @@ URL:
 
 # インストール
 ~~~　　
-$ git clone https://github.com/kazukiakimoto/ros_greeting_clock/blob/master/README.md　　
+$ cd ~/catkin_ws/src
+$ git clone https://github.com/kazukiakimoto/ros_greeting_clock/blob/master/README.md　
+$ cd ../ && catkin_make
 ~~~
 
 # 使い方
