@@ -29,3 +29,5 @@ $ rosrun ros_greeting_clock count.py
 三つ目の端末で
 $ rosrun ros_greeting_clock aisatu.py
 ~~~
+
+# ライセンス
