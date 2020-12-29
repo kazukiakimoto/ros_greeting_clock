@@ -12,3 +12,8 @@ URL:
 # スペック
 - PC:Raspberry Pi 3 Model B  
 - OS:Ubuntu 20.04.1 LTS
+
+# インストール
+~~
+$ git clone
+~~
