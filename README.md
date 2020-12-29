@@ -19,3 +19,13 @@ $ git clone https://github.com/kazukiakimoto/ros_greeting_clock/blob/master/READ
 ~~~
 
 # 使い方
+~~~  
+$ cd catkin_ws/src
+$ catkin_make
+一つ目の端末で
+$ roscore
+二つ目の端末で
+$ rosrun ros_greeting_clock count.py
+三つ目の端末で
+$ rosrun ros_greeting_clock aisatu.py
+~~~
