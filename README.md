@@ -1,4 +1,5 @@
 # ros_greeting_clock
+![Alt](https://github.com/kazukiakimoto/ros_greeting_clock/blob/master/image/IMG_6013.JPG)
 
 # 概要
 時間に合わせて挨拶をしてくれるプログラムです
