@@ -15,5 +15,7 @@ URL:
 
 # インストール
 ~~
-$ git clone
+$ git clone https://github.com/kazukiakimoto/ros_greeting_clock/blob/master/README.md
 ~~
+
+# 使い方
