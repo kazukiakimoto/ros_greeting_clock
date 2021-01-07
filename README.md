@@ -12,7 +12,7 @@
  - 0~4時は"こんな時間に何しているんですか？"
 
 # デモ
-URL:https://studio.youtube.com/video/z6xPGTrduZg/edit
+URL:https://www.youtube.com/watch?v=z6xPGTrduZg&feature=youtu.be
 
 # スペック
 - PC:Raspberry Pi 3 Model B  
